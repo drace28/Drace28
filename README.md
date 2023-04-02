@@ -10,7 +10,7 @@
 </p>
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=drace28&theme=highcontrast&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=drace28&theme=dracula&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=drace28&theme=radical&show_icons=true" />
 </div>
 
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/drace28/count.svg" alt="Visitor Count" /></h2>
